@@ -10,7 +10,11 @@ Första idén var att använda en ultraljudssensor för att med hjälp av ultral
 Använda magnet sensorer, en i locket av brevlådan och en parallellt i kanten så att magneterna alltid nuddar varandra när lådan är stängd. 
 
 ## upplägg och schema
-Vi började med att ta reda på vad vi behövde kunna för att genomföra projektet. Koppla plusivo kitet till datorn och hitta en kod som gör att 
+Vi började med att ta reda på vad vi behövde kunna för att genomföra projektet. Koppla plusivo kitet till datorn och hitta en kod som gör att datan från sensorerna dyker upp i arduino. Det var mycket disskutioner om hur vi skulle gå till väga och hur datan skulle bli till kunskap på det bästa sättet. Vi kom fram, efter några tester, att vi vill använda oss av ett stapeldiagram och visa sannorlikheten att få post under alla timmar. 
+
+vi delade upp arbetet och såg till att alla hade varsin grej att arbeta på. Exempelvis att om några jobbade vidare på webbsidan så gick andra ner till verkstaden och såg till att alla kablar var tillräckligt långa och att allt fick plats i brevlåda. 
+
+Vi skapade ett schema för att ha ett mål att följa varje dag fram tills redovisningen. 
 
 Schema
 Måndag 8e: Testa koppling och fixa kod som ger data.
